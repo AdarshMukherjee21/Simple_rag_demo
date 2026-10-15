@@ -1,0 +1,8 @@
+pymupdf4llm 
+langchain-community 
+langchain-huggingface 
+faiss-cpu 
+streamlit 
+langgraph 
+openai 
+tiktoken
